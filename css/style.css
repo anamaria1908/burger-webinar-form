@@ -59,7 +59,7 @@ Header
 
 .header {
     background-color: #404040;
-    background-image:linear-gradient(  rgba(102, 102, 102, 0.7), rgba(102, 102, 102, 0.7)), url(../images/bg-img.jpg);
+    background-image:linear-gradient(  rgba(51, 50, 50, 0.8), rgba(51, 50, 50, 0.8)), url(../images/bg-img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -90,6 +90,9 @@ Main content
 */
 .main-content  {
     padding: 2em 1em;
+}
+.main-content P {
+    line-height: 1.4;
 }
 
 /* 
